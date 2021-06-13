@@ -13,10 +13,10 @@
 <br>
 
 <span>
-    <p>Home<img src="Home.png" alt="home" width="25%"></p>
-    <p>About<img src="About.png" alt="About" width="25%"></p>
-    <p>Services<img src="Services.png" alt="Srvices" width="25%"></p>
-    <p>Contact<img src="Contact.png" alt="Contact" width="25%"></p>
+    <p>Home<img src="Home.png" alt="home" width="50%"></p>
+    <p>About<img src="About.png" alt="About" width="50%"></p>
+    <p>Services<img src="Services.png" alt="Srvices" width="50%"></p>
+    <p>Contact<img src="Contact.png" alt="Contact" width="50%"></p>
 </span>
 
 <br>
